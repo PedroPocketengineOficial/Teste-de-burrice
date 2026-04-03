@@ -28,3 +28,5 @@ https://youtu.be/UbtomQj7lxk?si=1EQVKLkghEKQ0Ind
 
 Video 2.
 https://youtu.be/cRgq355nlL0?si=TJ2b7iQlRpZiBKdE
+
+ignora o nome do Repositorio pq eu so coloquei pra testar, mas ja que funcionou, só tô com preguiça de ajeitar o nome e ora não da erro eu so não quis mudar depois ok.
