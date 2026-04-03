@@ -1,4 +1,4 @@
-Ora que que fazer colaboração pelo mobile recomendo essa dica aqui e os dois vídeos do Zee gamedev pra usar pelo termux
+Pra quem quer fazer colaboração pelo mobile, recomendo essa dica aqui e os dois vídeos do Zee gamedev pra usar pelo termux.
 
 Claude dicas:
 O problema
@@ -21,10 +21,10 @@ git add .
 Assim o Git funciona sem nenhum erro de permissão.
 
 
-Videos que eu assisti pra aprender o básico do termux com Github
+Videos que eu assisti pra aprender o básico do termux com Github.
 
-Video 1
+Video 1.
 https://youtu.be/UbtomQj7lxk?si=1EQVKLkghEKQ0Ind
 
-Video 2
+Video 2.
 https://youtu.be/cRgq355nlL0?si=TJ2b7iQlRpZiBKdE
